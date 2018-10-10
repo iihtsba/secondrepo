@@ -2,7 +2,7 @@ package com.abc;
 
 import java.io.IOException;
 
-import javax.servlet.ServletConfig;
+import javaxx.servlett.ServletConfiggg;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
